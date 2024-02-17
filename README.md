@@ -1,4 +1,4 @@
-## Apple Page Clone
+## Apple page clone
 ### Nova Pulseira loop esportiva edição limitada!
 ![image](https://github.com/marostegaf/apple-js/assets/103620713/ab8635d5-147f-4671-ba9b-f52a21fbb655)
 
@@ -11,4 +11,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 
 ## 💻 Projeto
-Disponível em: 🔗[Em breve...](https://github.com/marostegaf/apple-js)
+Disponível em: 🔗[Pulseira Loop Esportiva](https://sports-loop-bracelet.vercel.app/)
